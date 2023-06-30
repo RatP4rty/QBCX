@@ -1,0 +1,8 @@
+name: QQCX
+version: '${version}'
+main: dog.aonehax.qqcx.QQCX
+api-version: '1.19'
+commands:
+  qq:
+    description: Query QQ information
+    usage: /qq <qq_number>
